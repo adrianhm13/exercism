@@ -1,0 +1,4 @@
+.config
+.exercism
+node_modules
+.yarn
